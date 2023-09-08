@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author brian.7908
  */
-public class Exemplovetor2 {
+public class ExemploVetor2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner (System.in);
         
