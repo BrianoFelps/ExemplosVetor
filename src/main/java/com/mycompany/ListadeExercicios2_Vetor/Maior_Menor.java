@@ -4,15 +4,12 @@
  */
 package com.mycompany.ListadeExercicios2_Vetor;
 
-import java.util.Scanner;
-
 /**
  *
  * @author brian.7908
  */
 public class Maior_Menor {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner (System.in);
                 
         int nums[] = new int [5], maior, menor;
         
